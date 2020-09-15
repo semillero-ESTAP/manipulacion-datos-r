@@ -1,8 +1,4 @@
-#orden del dia
-#bienvenida
-#revision del contenido
-#conceptos basicos de Rstudio
-#librerias base y externas
+#SESION 1 / 14 de septiembre de 2020
 
 #importar archivos
 install.packages('readr')
